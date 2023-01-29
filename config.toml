@@ -3,7 +3,7 @@ baseURL = 'http://example.org/'
 theme = 'LoveIt'
 
 # website title
-title = "KartikVerma"
+title = "Kartik Verma"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en-us"
