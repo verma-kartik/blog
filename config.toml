@@ -136,8 +136,8 @@ languageName = "English"
     typeit = false
     subtitle = "I am Kartik Verma, student of Computer Engineering. I write about databases, cloud and tv series."
   [params.social]
-    GitHub = "https://github.com/verma-kartik"
-    Linkedin = "https://www.linkedin.com/in/kartik-verma-058/"
+    GitHub = "verma-kartik"
+    Linkedin = "kartik-verma-058/"
     Spotify = ""
     Bandcamp = ""
     Zhihu = ""
