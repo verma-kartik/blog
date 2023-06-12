@@ -127,7 +127,7 @@ languageName = "English"
     enable = true
     title = "Hello there"
     typeit = false
-    subtitle = "I am Kartik Verma, student of Computer Engineering. I write about databases, cloud and tv series."
+    subtitle = "I am Kartik Verma, student of Computer Engineering. I write about databases, cloud and tv series. I do cpp & golang."
   [params.social]
     GitHub = "verma-kartik"
     Linkedin = "kartik-verma-058"
