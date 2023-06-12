@@ -2,6 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://verma-kartik.github.io/blog/categories/</loc></url><url>
-            <loc>https://verma-kartik.github.io/blog/</loc></url><url>
-            <loc>https://verma-kartik.github.io/blog/tags/</loc></url></urlset>
+            <loc>https://verma-kartik.github.io/blog/categories/</loc><lastmod>2023-01-16T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://verma-kartik.github.io/blog/</loc><lastmod>2023-01-16T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://verma-kartik.github.io/blog/tags/last-of-us/</loc><lastmod>2023-01-16T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://verma-kartik.github.io/blog/posts/first-post/</loc><lastmod>2023-01-16T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://verma-kartik.github.io/blog/posts/</loc><lastmod>2023-01-16T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://verma-kartik.github.io/blog/categories/review/</loc><lastmod>2023-01-16T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://verma-kartik.github.io/blog/tags/</loc><lastmod>2023-01-16T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://verma-kartik.github.io/blog/categories/tv-series/</loc><lastmod>2023-01-16T00:00:00&#43;00:00</lastmod></url></urlset>
